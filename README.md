@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @how512
 - 👀 I’m interested in music/humans/3d/motion graphics/Linux and stuff
-- 🌱 I’m currently learning to write
+- 🌱 I’m currently learning to write at [my blog](https://how512.github.io)
 - 💞️ I’m looking to collaborate on something, idk, I'll figure out what it is
 - 📫 How to reach me: ? idk, I'll fugure it out
 - 😄 Pronouns: ?
